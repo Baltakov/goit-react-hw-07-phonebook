@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  min-width: 600px;
+  padding: 25px;
+  text-align: center;
+}
+
+.inputIn {
+  display: inline-flex;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.inputIn input {
+  margin-left: 5px;
+}
+
+.btnAdd {
+  background-color: rgb(35, 32, 54);
+  color: antiquewhite;
+}
+.btnAdd:hover {
+  transform: scale(1.3);
+}

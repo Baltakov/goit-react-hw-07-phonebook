@@ -1,0 +1,26 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 600px;
+  padding: 25px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+.list {
+  display: block;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+.btnDel {
+  margin-left: 10px;
+  background: red;
+}
+.btnDel:hover {
+  transform: scale(1.3);
+}

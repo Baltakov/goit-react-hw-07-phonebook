@@ -1,0 +1,13 @@
+.findForm {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  min-width: 600px;
+  padding: 25px;
+  text-align: center;
+}
+.inputFind {
+  margin-left: 15px;
+  display: block;
+  text-align: center;
+}
